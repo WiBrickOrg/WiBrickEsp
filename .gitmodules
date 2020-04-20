@@ -1,0 +1,6 @@
+[submodule "lib/wibrick-wire"]
+	path = lib/wibrick-wire
+	url = https://github.com/WiBrickOrg/WiBrick-Wire.git
+[submodule "lib/lxlib"]
+	path = lib/lxlib
+	url = https://github.com/WilixLead/lxlib.git
